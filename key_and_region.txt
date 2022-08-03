@@ -1,0 +1,3 @@
+RGAPI-9a21b9ed-4edf-4996-8e5a-4d1562a643de
+https://kr.api.riotgames.com
+https://asia.api.riotgames.com
